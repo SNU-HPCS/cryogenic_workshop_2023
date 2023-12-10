@@ -14,29 +14,29 @@ layout: default
 ### Dec 11, 2023 - Main Program
 - 10:00 - 12:00 
   - __Superconductor Quantum Computing (Moonshot)__
-    - Prof. Tsuyoshi Yamamoto (NEC), Prof. Masamitsu Tanaka (Nagoya Univ.)
+    - Prof. Tsuyoshi Yamamoto (NEC), Prof. Masamitsu Tanaka (Nagoya University)
 
 - 12:00 - 13:00 
   - __Lunch__
 
 - 13:00 - 14:00 
   - __Superconductor Classical Computing__
-    - Students of KU
+    - Students of Kyushu University
 
 - 14:00 - 15:00 
   - __A Fault-Tolerant Million Qubit-Scale Distributed Quantum Computer__
-    - Junpyo Kim (SNU)
+    - Junpyo Kim (Seoul National University)
 
 - 15:00 - 16:00 
   - __SuperCore: An Ultra-Fast and Energy-Efficient Processor Architecture Using SFQ Logic Devices__
-    - Junhyuk Choi (SNU)
+    - Junhyuk Choi (Seoul National University)
 
 - 16:00 - 16:30 
   - __Break__
 
 - 16:30 - 18:00 
   - __Next-Generation Server Architecture Using Data Processing Unit__
-    - Prof. Jangwoo Kim (SNU)
+    - Prof. Jangwoo Kim (Seoul National University)
 
 - 18:00 - 20:00 
   - __Dinner__
