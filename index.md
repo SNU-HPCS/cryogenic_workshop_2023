@@ -14,6 +14,7 @@ layout: default
 ### Dec 11, 2023 - Professors and Students Discussion
 - 10:00-12:00 __Superconductor Quantum Computing__
   - Speaker, Speaker
+
 - 12:00-13:00 __Lunch__
   - Speaker, Speaker
 - 13:00-14:30 __Superconductor Classical Computing__
@@ -26,6 +27,7 @@ layout: default
 ### Dec 12, 2023 - Students Discussion
 - 10:00-12:00 __Superconductor Quantum Computing (Error collection and system architecture exploration)__
   - Speaker, Speaker
+  
 - 12:00-13:00 __Lunch__
 - 13:00-14:30 __Superconductor Classical Computing (Timing-error-tolerant accelerator design)__
   - Speaker, Speaker
