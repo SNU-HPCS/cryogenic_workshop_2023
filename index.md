@@ -78,5 +78,5 @@ layout: default
 
 ## Contacts
 | Name | Mail | Phone |
-|---|---|---|
+|:---:|:---:|:---:|
 | Ilkwon Byun(변일권) | ik.byun@snu.ac.kr | +82 10-8302-1994 |
