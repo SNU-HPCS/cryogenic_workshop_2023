@@ -7,7 +7,7 @@ layout: default
 
 | Date | Time | Place |
 |:---:|:---:|:---|
-| Dec 11, 2023 | 10:00 - 17:00 | [Hoam Faculty House](https://www.hoam.ac.kr/eng/)\*, Seoul Nat'l Univ., Seoul, South Korea |
+| Dec 11, 2023 | 10:00 - 18:00 | [Hoam Faculty House](https://www.hoam.ac.kr/eng/)\*, Seoul Nat'l Univ., Seoul, South Korea |
 | Dec 12, 2023 | 10:00 - 17:00 | Automation and Systems Research Institute\*, Seoul Nat'l Univ., Seoul, South Korea |
 
 (\*The detailed instructions on how to arrive are provided below.)
