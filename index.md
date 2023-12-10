@@ -16,7 +16,9 @@ layout: default
 ### Dec 11, 2023 - Main Program
 - 10:00 - 12:00 
   - __Superconductor Quantum Computing (Moonshot)__
-    - Prof. Tsuyoshi Yamamoto (NEC), Prof. Masamitsu Tanaka (Nagoya University)
+    - Prof. Tsuyoshi Yamamoto (NEC)
+    - Prof. Masamitsu Tanaka (Nagoya University)
+    - Prof. Koji Inoue (Kyushu University)
 
 - 12:00 - 13:00 
   - __Lunch__
