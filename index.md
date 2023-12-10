@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# 2023 International Seminar on Quantum, Superconducting and Cryogenic Computer Architecture
+
 ## Date & Place
 | Date | Time | Place |
 | --- | --- | --- |
