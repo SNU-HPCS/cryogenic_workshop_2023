@@ -62,4 +62,8 @@ layout: default
 
 ## Way to visit
 
+### Hoam Faculty House
 <center><iframe width="720" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Hoam%20Faculty%20House%20Gwanak-gu+(Hoam%20Faculty%20House)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='http://mapseinbinden.org'>google maps einbinden iframe</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=4384ec4dee080636e55dc07fb49daf4011124f10'></script></center>
+
+### Automation Systems and Research Institute
+<center><iframe width="720" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=%EC%9E%90%EB%8F%99%ED%99%94%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%B5%EB%8F%99%EC%97%B0%EA%B5%AC%EC%86%8C%20Gwanak-gu+(Automation%20and%20Systms%20Research%20Institute)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='http://mapseinbinden.org'>google maps einbinden iframe</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=359fb7913ea75cb7cdcd1b4cbbac096f6008297e'></script></center>
