@@ -7,8 +7,9 @@ layout: default
 
 | Date | Time | Place |
 |:---:|:---:|:---|
-| Dec 11, 2023 | 10:00 - 17:00 | Hoam Faculty House, Seoul Nat'l Univ., Seoul, South Korea |
-| Dec 12, 2023 | 10:00 - 17:00 | Automation and Systems Research Institute, Seoul Nat'l Univ., Seoul, South Korea |
+| Dec 11, 2023 | 10:00 - 17:00 | Hoam Faculty House*, Seoul Nat'l Univ., Seoul, South Korea |
+| Dec 12, 2023 | 10:00 - 17:00 | Automation and Systems Research Institute*, Seoul Nat'l Univ., Seoul, South Korea |
+(*The detailed instructions on how to arrive are provided below.)
 
 ## Agenda
 ### Dec 11, 2023 - Main Program
@@ -73,3 +74,6 @@ layout: default
 <center>
 <iframe width="720" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas2" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=%EC%9E%90%EB%8F%99%ED%99%94%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%B5%EB%8F%99%EC%97%B0%EA%B5%AC%EC%86%8C%20Gwanak-gu+(Automation%20and%20Systms%20Research%20Institute)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='http://mapseinbinden.org'> </a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=359fb7913ea75cb7cdcd1b4cbbac096f6008297e'></script>
 </center>
+
+## Contacts
+- Ilkwon Byun(변일권) / ik.byun@snu.ac.kr / +82 10-8302-1994
