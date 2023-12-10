@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Image](banner.png)
+![Image](banner2.png)
 
 ## Date & Place
 
