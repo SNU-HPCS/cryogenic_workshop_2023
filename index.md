@@ -11,7 +11,7 @@ layout: default
 | Dec 12, 2023 | 10:00 - 17:00 | Automation and Systems Research Institute, Seoul Nat'l Univ., Seoul, South Korea |
 
 ## Agenda
-### Dec 11, 2023 - Professors and Students Discussion
+### Dec 11, 2023 - Main Program
 - 10:00 - 12:00 
   - __Superconductor Quantum Computing (Moonshot)__
     - Prof. Tsuyoshi Yamamoto (NEC), Prof. Masamitsu Tanaka (Nagoya Univ.)
@@ -41,7 +41,7 @@ layout: default
 - 18:00 - 20:00 
   - __Dinner__
 
-### Dec 12, 2023 - Students Discussion
+### Dec 12, 2023 - Research Discussion
 - 10:00 - 12:00 
   - __Superconductor Quantum Computing (Error collection and system architecture exploration)__
   
