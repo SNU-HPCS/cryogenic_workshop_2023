@@ -12,30 +12,29 @@ layout: default
 
 ## Agenda
 ### Dec 11, 2023 - Professors and Students Discussion
-- 10:00-12:00 __Superconductor Quantum Computing__
-  - Speaker, Speaker
+- 10:00-12:00 __Superconductor Quantum Computing (Moonshot)__
+  - Prof. Tsuyoshi Yamamoto (NEC), Prof. Masamitsu Tanaka (Nagoya Univ.)
 
 - 12:00-13:00 __Lunch__
-  - Speaker, Speaker
-- 13:00-14:30 __Superconductor Classical Computing__
-  - Speaker, Speaker
-- 14:30-15:00 __Break__
-- 15:00-16:30 __Datacenter Design__
-  - Speaker, Speaker
-- 16:30-17:00 __Discussion for accelerating our collaboration__
+- 13:00-14:00 __Superconductor Classical Computing__
+- 14:00-15:00 __A Fault-Tolerant Million Qubit-Scale Distributed Quantum Computer__
+  - Junpyo Kim (SNU)
+- 15:00-16:00 __SuperCore: An Ultra-Fast and Energy-Efficient Processor Architecture Using SFQ Logic Devices__
+  - Junhyuk Choi (SNU)
+- 16:00-16:30 __Break__
+- 16:30-18:00 __Next-Generation Server Architecture Using Data Processing Unit__
+  - Prof. Jangwoo Kim (SNU)
+- 18:00-20:00 __Dinner__
 
 ### Dec 12, 2023 - Students Discussion
 - 10:00-12:00 __Superconductor Quantum Computing (Error collection and system architecture exploration)__
-  - Speaker, Speaker
   
 - 12:00-13:00 __Lunch__
 - 13:00-14:30 __Superconductor Classical Computing (Timing-error-tolerant accelerator design)__
-  - Speaker, Speaker
 - 14:30-15:00 __Break__
 - 15:00-16:30 __Superconductor Computing (General purpose: microarchitecture)__
-  - Speaker, Speaker
 - 16:30-17:00 __Discussion for accelerating our collaboration__
 
 ### Way to visit
 
-<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Hoam%20Faculty%20House%20Gwanak-gu+(Hoam%20Faculty%20House)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='http://mapseinbinden.org'>google maps einbinden iframe</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=4384ec4dee080636e55dc07fb49daf4011124f10'></script>
+<center><iframe width="720" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Hoam%20Faculty%20House%20Gwanak-gu+(Hoam%20Faculty%20House)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='http://mapseinbinden.org'>google maps einbinden iframe</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=4384ec4dee080636e55dc07fb49daf4011124f10'></script></center>
