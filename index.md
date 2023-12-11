@@ -25,7 +25,7 @@ layout: default
 
 - 13:00 - 14:00 
   - __Superconductor Classical Computing__
-    - Kyushu University
+    - Pratiksha Mundhe (Kyushu University)
 
 - 14:00 - 15:00 
   - __A Fault-Tolerant Million Qubit-Scale Distributed Quantum Computer__
