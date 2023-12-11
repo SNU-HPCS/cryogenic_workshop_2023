@@ -14,17 +14,21 @@ layout: default
 
 ## Agenda
 ### Dec 11, 2023 - Main Program
-- 10:00 - 12:00 
-  - __Superconductor Quantum Computing (Moonshot)__
+- 10:00 - 11:00 
+  - __Development of Integration Technologies for Superconducting Quantum Circuits__
     - Prof. Tsuyoshi Yamamoto (NEC)
     - Prof. Masamitsu Tanaka (Nagoya University)
     - Prof. Koji Inoue (Kyushu University)
 
-- 12:00 - 13:00 
+- 11:00 - 11:30 
+  - __Handling Errors in Classical Superconductor Systems__
+    - Pratiksha Mundhe (Kyushu University)
+
+- 11:30 - 13:00 
   - __Lunch__
 
 - 13:00 - 14:00 
-  - __Superconductor Classical Computing__
+  - __Attempting Timing Error Detection and Correction in Classical Superconducting Systems__
     - Pratiksha Mundhe (Kyushu University)
 
 - 14:00 - 15:00 
@@ -84,3 +88,5 @@ layout: default
 |:---:|:---:|:---:|
 | Ilkwon Byun (변일권) | ik.byun@snu.ac.kr | +82 10-8302-1994 |
 | Jungmin Cho (조정민) | jungmin.cho@snu.ac.kr | +82 10-9350-2573 |
+
+![Image](event_photo.jpg)
