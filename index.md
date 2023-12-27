@@ -86,7 +86,7 @@ layout: default
 
 | Name | Mail | Phone |
 |:---:|:---:|:---:|
-| Ilkwon Byun (변일권) | ik.byun@snu.ac.kr | +82 10-8302-1994 |
-| Jungmin Cho (조정민) | jungmin.cho@snu.ac.kr | +82 10-9350-2573 |
+| Ilkwon Byun (변일권) | ik.byun@snu.ac.kr | - |
+| Jungmin Cho (조정민) | jungmin.cho@snu.ac.kr | - |
 
 ![Image](event_photo.jpg)
